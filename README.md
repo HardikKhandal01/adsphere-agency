@@ -158,7 +158,7 @@ AdSphere-Agency/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/adsphere-agency.git
+https://hardikkhandal01.github.io/adsphere-agency/
 ```
 
 Open the project
