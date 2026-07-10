@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://yourusername.github.io/adsphere-agency/sitemap.xml
+Sitemap: https://hardikkhandal01.github.io/adsphere-agency/sitemap.xml
